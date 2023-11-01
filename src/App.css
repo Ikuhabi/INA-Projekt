@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.flex-mid
+{
+  display: flex;
+gap:1rem
+}
+.inputBox
+{
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+.inputSize
+{
+  width: 50px;
+}
+
+table,td,th
+{
+  border: 1px solid black;
+}
+td,th{
+  padding: 5px;
+}
